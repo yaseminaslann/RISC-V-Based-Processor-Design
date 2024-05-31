@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed Apr 13 01:57:06 2022
+# Process ID: 9232
+# Current directory: C:/Users/kaya/OneDrive - Fenerbahçe Üniversitesi/Masaüstü/RÝSC-V
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16428 C:\Users\kaya\OneDrive - Fenerbahçe Üniversitesi\Masaüstü\RÝSC-V\riscvVivado.xpr
+# Log file: C:/Users/kaya/OneDrive - Fenerbahçe Üniversitesi/Masaüstü/RÝSC-V/vivado.log
+# Journal file: C:/Users/kaya/OneDrive - Fenerbahçe Üniversitesi/Masaüstü/RÝSC-V\vivado.jou
+# Running On: DESKTOP-PB2598S, OS: Windows, CPU Frequency: 2196 MHz, CPU Physical cores: 8, Host memory: 7446 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/kaya/OneDrive - Fenerbahçe Üniversitesi/Masaüstü/RÝSC-V/riscvVivado.xpr}
+update_compile_order -fileset sources_1
